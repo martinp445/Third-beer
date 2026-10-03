@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Third beer application
+
+That's only for fun app to learn how react works with components and states.
+
+# React getting started info
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
