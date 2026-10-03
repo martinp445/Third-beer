@@ -7,7 +7,7 @@ import App from './App'
 const container = document.getElementById('root')
 const root = createRoot(container)
 root.render(
-    <BrowserRouter basename="/Third-beer">
+    <BrowserRouter basename="/Third-beer/">
         <App />
     </BrowserRouter>
 )
