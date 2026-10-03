@@ -1,0 +1,21 @@
+.beer-button {
+  padding: 12px 22px;
+  border: none;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--gold) 0%, var(--amber) 60%, var(--lager) 100%);
+  color: var(--ink);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+  letter-spacing: 0.03em;
+  box-shadow: 0 7px 0 #7a3d0c;
+}
+
+.beer-button:hover {
+  filter: brightness(1.06);
+}
+
+.beer-button:active {
+  transform: translateY(2px);
+  box-shadow: 0 5px 0 #7a3d0c;
+}
